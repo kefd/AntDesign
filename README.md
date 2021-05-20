@@ -1,6 +1,6 @@
 # AntDesign
 
-`npm install **antd**`
+`npm install antd`
 
 `import { Button } from 'antd';`
 
