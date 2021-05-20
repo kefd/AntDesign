@@ -4,8 +4,8 @@
 
 ### import { Button } from 'antd';
 
-```Typescript
+```React
 <div className="App">
  <Button type="primary">Button</Button>
- </div>
- ```
+</div>
+```
