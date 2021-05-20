@@ -4,7 +4,7 @@
 
 ### import { Button } from 'antd';
 
-```React
+```JSX
 <div className="App">
  <Button type="primary">Button</Button>
 </div>
