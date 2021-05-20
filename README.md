@@ -13,3 +13,14 @@
 </div>
 ```
 ...[Components](https://ant.design/components/overview/)
+
+# Rsuite
+
+`npm i rsuite@next --save`
+
+```JSX
+import { Button } from 'rsuite';
+import 'rsuite/lib/styles/index.less'; // or 'rsuite/dist/styles/rsuite-default.css'
+
+ReactDOM.render(<Button>Button</Button>, mountNode);
+```
