@@ -1,6 +1,7 @@
 # AntDesign
 
 `npm install antd`
+`npm install --save @ant-design/icons`
 
 `import { Button } from 'antd';`
 
