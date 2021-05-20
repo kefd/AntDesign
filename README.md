@@ -11,6 +11,4 @@
  <Button type="primary">Button</Button>
 </div>
 ```
-
-https://ant.design/components/overview/
-[AndDesign](https://ant.design/components/overview/)
+...[Components](https://ant.design/components/overview/)
