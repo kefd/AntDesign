@@ -2,7 +2,7 @@
 
 ### npm install antd
 
-### import { Button } from 'antd';
+`import { Button } from 'antd';`
 
 ```JSX
 <div className="App">
