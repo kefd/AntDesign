@@ -16,7 +16,7 @@
 
 # Rsuite
 
-`npm i rsuite@next --save`
+`npm i rsuite --save`
 
 ```JSX
 import { Button } from 'rsuite';
